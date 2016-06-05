@@ -1,0 +1,25 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Helm108",
+    "enableMultiJS": true,
+    "longName": "SwimCounter",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "SwimCounter",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "a70808b5-d8d3-4086-a8aa-b668d6fdc3e8",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
