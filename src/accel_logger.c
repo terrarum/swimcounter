@@ -39,4 +39,3 @@ void start_logging() {
 void stop_logging() {
     accel_data_service_unsubscribe();
 }
-
