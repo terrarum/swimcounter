@@ -23,7 +23,7 @@ static void init(void) {
   layer_add_child(window_get_root_layer(s_window), text_layer_get_layer(s_text_layer));
   
   // Enable text flow and paging on the text layer, with a slight inset of 10, for round screens
-  text_layer_enable_screen_text_flow_and_paging(s_text_layer, 10);
+//   text_layer_enable_screen_text_flow_and_paging(s_text_layer, 10);
   
   // Push the window, setting the window animation to 'true'
   window_stack_push(s_window, true);

@@ -4,12 +4,12 @@
         "@smallstoneapps/linked-list": "1.2.2"
     },
     "keywords": [],
-    "name": "swimcounter",
+    "name": "swim-counter",
     "pebble": {
         "capabilities": [
             ""
         ],
-        "displayName": "SwimCounter",
+        "displayName": "Swim Counter",
         "enableMultiJS": true,
         "messageKeys": {},
         "projectType": "native",
