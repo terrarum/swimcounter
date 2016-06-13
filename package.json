@@ -1,8 +1,6 @@
 {
     "author": "Helm108",
-    "dependencies": {
-        "@smallstoneapps/linked-list": "1.2.2"
-    },
+    "dependencies": {},
     "keywords": [],
     "name": "swim-counter",
     "pebble": {
@@ -11,7 +9,7 @@
         ],
         "displayName": "Swim Counter",
         "enableMultiJS": true,
-        "messageKeys": {},
+        "messageKeys": [],
         "projectType": "native",
         "resources": {
             "media": []
